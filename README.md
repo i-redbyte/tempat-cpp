@@ -10,3 +10,4 @@ Based on books and articles by [Andrei Alexandrescu](https://en.wikipedia.org/wi
 
 1. Visitor pattern implemented 
 2. Singleton pattern by Andrei Alexandrescu in "Modern C++ Design" book
+3. Abstract fabric pattern by Andrei Alexandrescu in "Modern C++ Design" book
